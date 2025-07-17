@@ -16,4 +16,5 @@ Vedant Thakare
 3. Activate from the WordPress admin panel
 
 ## 💬 Screenshot
+![Screenshot](https://github.com/vedantthakare27/random-quote-footer/blob/main/screenshot.png?raw=true)
 
